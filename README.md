@@ -19,11 +19,11 @@ This project simulates an online store system with products, customers, employee
 ## 🚀 How to Run
 1. Install MySQL / PostgreSQL
 2. Run `schema.sql` in your SQL IDE (like DBeaver or MySQL Workbench)
-3. Insert sample data using `inserts.sql`
+3. Insert sample data using `insert.sql`
 4. Execute queries from `queries.sql`
 
 ## ✅ Output Examples
-![Sample Screenshot](screenshot.png)
+![Sample Screenshot](Table Customers.png)
 
 ## 🧠 Try This
 - Add a new customer with 3 orders
