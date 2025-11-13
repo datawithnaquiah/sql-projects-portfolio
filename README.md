@@ -23,7 +23,7 @@ This project simulates an online store system with products, customers, employee
 4. Execute queries from `queries.sql`
 
 ## ✅ Output Examples
-![Sample Screenshot](Table Customers.png)
+![Customer Table](images/table_customers.png)
 
 ## 🧠 Try This
 - Add a new customer with 3 orders
